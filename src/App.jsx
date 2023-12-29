@@ -25,6 +25,12 @@ font-size: 10px;
 const App = () => {
   return (
     <AppContainer>
+
+<Helmet>
+<meta name="google-site-verification" content="2wQWfSchpSKalRRU_JVRc2yRioXvfiULnjgj3PM5fRM" />
+        {/* Reemplaza "TU_CÓDIGO_DE_VERIFICACIÓN" con el código proporcionado por Google Console */}
+      </Helmet>
+
       <Header>
       
       
