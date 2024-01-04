@@ -70,6 +70,7 @@ const SubscribeForm = () => {
         onChange={(e) => setEmail(e.target.value)}
       />
       <Button onClick={handleSubscribe}>Suscribirse</Button>
+      
     </FormContainer>
   );
 };
